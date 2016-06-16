@@ -1,1 +1,8 @@
 *.ico
+[Bb]ackup*/
+[Ll]ib*/
+*.lps
+*.bak
+*.fpcunit.ini
+*.exe
+*.res
