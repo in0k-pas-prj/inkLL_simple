@@ -1,0 +1,6 @@
+[submodule "src"]
+	path = src
+	url = git@github.com:in0k-pas-src/inkLL_simple_src.git
+[submodule "tst"]
+	path = tst
+	url = git@github.com:in0k-pas-src/inkLL_simple_tst.git
