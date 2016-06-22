@@ -4,9 +4,9 @@
 [submodule "tst"]
 	path = tst
 	url = https://github.com/in0k-pas-src/inkLL_simple_tst.git
-[submodule "tstExt/inkLL_simple"]
-	path = tstExt/inkLL_simple
-	url = https://github.com/in0k-pas-src/inkLL_simple_tst.git
-[submodule "srcExt/inkLL_simple"]
-	path = srcExt/inkLL_simple
-	url = https://github.com/in0k-pas-src/inkLL_simple_src.git
+[submodule "srcExt/inkLL_CORE"]
+	path = srcExt/inkLL_CORE
+	url = https://github.com/in0k-pas-src/inkLL_CORE_src.git
+[submodule "tstExt/inkLL_CORE"]
+	path = tstExt/inkLL_CORE
+	url = https://github.com/in0k-pas-src/inkLL_CORE_tst.git
